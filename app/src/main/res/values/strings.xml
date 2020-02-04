@@ -3,8 +3,10 @@
     <string name="name">Sullivan</string>
     <string name="yellow_star">Yellow star</string>
 
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+
     <string name="bio">Hi, my name is Sullivan.
-    \n\nMy nick name is Sully.
+    \n\nI am a Pug-Brussels mix. I weigh 15 pounds (mostly), and have blonde hair. I\'m handsome!
     \n\nI really love my mamas! Their names are Mama-one and Mama-two.
     \nMama-one is my absolute favorite! Shh! Don\'t tell Mama-two. I don\'t want to hurt her feelings.
     \n\nMama-one takes me and my brother, Monkey, outside every morning.
@@ -16,5 +18,6 @@
     \nMonkey gets hot sometimes and goes to lay down where he can relax, but not me. I love snuggles!!
     \nMamas are the best! I hope my mamas know how much I love them.
     \nThe End.</string>
+    <string name="done">Done</string>
 
 </resources>
